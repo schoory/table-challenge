@@ -1,0 +1,8 @@
+{
+  "serverPort": 5000,
+  "DBHost": "localhost",
+  "DBPort": 5432,
+  "DBName": "channelservice",
+  "DBUser": "postgres",
+  "DBPassword": "1234"
+}

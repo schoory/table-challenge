@@ -1,0 +1,13 @@
+@import "../../assets/variables.scss";
+
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: $white_background;
+  padding: 1rem;
+  border-radius: 5px;
+  border: 1px solid $table_border;
+}
