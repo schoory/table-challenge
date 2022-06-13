@@ -1,4 +1,4 @@
-# Frontend challenge 
+# Table 
 
 ## Установка
 
